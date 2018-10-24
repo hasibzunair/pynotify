@@ -5,7 +5,7 @@
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 <p align="center">
-  Follow along if you want to be notified when your model finishes learning the difference between cats and dogs!
+  Follow along if you want to be notified remotely when your model finishes learning the difference between cats and dogs!
 </p>
 
 <br/>
