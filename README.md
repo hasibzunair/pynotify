@@ -40,6 +40,7 @@ I'm to lazy to keep watching my model finish training and also to write up a tho
 
 ## Takeaways
 
+* Program written in Python 3.6
 * Nothing here. What did you expect? A cookie!?
 
 ## License
@@ -47,8 +48,3 @@ I'm to lazy to keep watching my model finish training and also to write up a tho
 
 ## Author
 Made with ❤️ by Hasib Zunair
-
-
-## Author
-[Hasib Zunair](http://hasibzunair.github.io/)
-
