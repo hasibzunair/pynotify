@@ -38,6 +38,12 @@ I'm to lazy to keep watching my model finish training and also to write up a tho
 
 **YOU HAVE TO SETUP THE NEW EMAIL ACCOUNT ONLY ONCE!**
 
+
+## Trick or treat
+
+Too lazy to set all of these up? I wrapped everything in a python package which is uploaded in TestPyPi and ready for use. You can get it [here](https://test.pypi.org/project/neuralert/)
+
+
 ## Takeaways
 
 * Program written in Python 3.6
