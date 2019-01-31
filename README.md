@@ -2,8 +2,6 @@
   Tired of watching the progbar till your world class model reaches SOTA?
 </h1>
 
-[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
-
 <p align="center">
   Follow along if you want to be notified remotely when your model finishes learning the difference between cats and dogs!
 </p>
@@ -41,8 +39,7 @@ I'm to lazy to keep watching my model finish training and also to write up a tho
 
 ## Trick or treat
 
-Too lazy to set all of these up? I wrapped everything in a python package which is uploaded in TestPyPi and ready for use. You can get it [here](https://test.pypi.org/project/neuralert/)
-
+Too lazy to set all of these up? I wrapped everything in a python package which is uploaded in TestPyPi and ready for use. You can get it [here](https://test.pypi.org/project/pynotify/)
 
 ## Takeaways
 

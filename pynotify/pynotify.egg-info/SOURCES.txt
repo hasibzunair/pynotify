@@ -1,0 +1,7 @@
+README.md
+setup.py
+pynotify/__init__.py
+pynotify.egg-info/PKG-INFO
+pynotify.egg-info/SOURCES.txt
+pynotify.egg-info/dependency_links.txt
+pynotify.egg-info/top_level.txt
