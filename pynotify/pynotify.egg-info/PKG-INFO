@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: pynotify
-Version: 0.0.2
+Version: 0.0.3
 Summary: A Python package to send emails like a human
 Home-page: https://github.com/hasibzunair/neuralert
 Author: Hasib Zunair
@@ -18,7 +18,6 @@ Description: ## pynotify - A Python package built to send email notifications wh
                 destination: Takes in destionation email of type string
                 subject(optional arguement): Takes in a string as an input (Default arg: None)
                 msg(optional arguement): Takes in a message of type string as input (Default arg: None)
-                destination: Takes in destionation email of type string
             '''
         ```
         Sends an email with attachment(s) included.

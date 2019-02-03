@@ -10,7 +10,6 @@ send_email(destinaiton, subject=" ", msg=" "):
         destination: Takes in destionation email of type string
         subject(optional arguement): Takes in a string as an input (Default arg: None)
         msg(optional arguement): Takes in a message of type string as input (Default arg: None)
-        destination: Takes in destionation email of type string
     '''
 ```
 Sends an email with attachment(s) included.

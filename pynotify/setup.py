@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pynotify",
-    version="0.0.2",
+    version="0.0.3",
     author="Hasib Zunair",
     author_email="hasibzunair@gmail.com",
     description="A Python package to send emails like a human",
