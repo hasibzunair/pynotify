@@ -15,7 +15,7 @@
 
 ## Motivations
 <p> 
-I'm to lazy to keep watching my model finish training and also to write up a thorough tutorial on this. I also train models in CPU which takes hours or in the worst case even days. Hence wrote a program to notify me when the task is done and also providing details of it. More time to play Counter Strike! 
+I'm to lazy to keep watching my naive neural network finish training and also to write up a thorough tutorial on this. I also train models in CPU which takes hours or in the worst case even days. Hence wrote a program to notify me when the task is done and also providing details of it. More time to play Counter Strike! 
 </p>
 
 ## What this notebook does?
