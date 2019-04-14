@@ -3,7 +3,7 @@
 ## Functionalities
 
 Sends a simple email with a subject and a message body.
-```
+```python
 send_email(destinaiton, subject=" ", msg=" "):
     '''
     Arguements:
@@ -13,7 +13,7 @@ send_email(destinaiton, subject=" ", msg=" "):
     '''
 ```
 Sends an email with attachment(s) included.
-```
+```python
 send_email_with_attachment(destination, files, sub="Subject", text= "No text"):
     '''
     Arguements:
@@ -28,7 +28,7 @@ send_email_with_attachment(destination, files, sub="Subject", text= "No text"):
 Import the library from TestPyPi (Test Python Packaging Index)
 
 A demo script of this in action is shown below
-```
+```python
 from pynotify import send_email, send_email_with_attachment
 
 subject = "Killer Robot"
