@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: pynotify
-Version: 0.0.3
-Summary: A Python package to send emails like a human
-Home-page: https://github.com/hasibzunair/neuralert
+Version: 0.0.4
+Summary: A Python package to send emails like a human.
+Home-page: https://github.com/hasibzunair/pynotify
 Author: Hasib Zunair
 Author-email: hasibzunair@gmail.com
 License: UNKNOWN

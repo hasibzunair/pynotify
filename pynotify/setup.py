@@ -5,13 +5,13 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pynotify",
-    version="0.0.3",
+    version="0.0.4",
     author="Hasib Zunair",
     author_email="hasibzunair@gmail.com",
-    description="A Python package to send emails like a human",
+    description="A Python package to send emails like a human.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/hasibzunair/neuralert",
+    url="https://github.com/hasibzunair/pynotify",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
