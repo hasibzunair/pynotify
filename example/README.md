@@ -9,7 +9,7 @@
 <br/>
 
 <p align="center">
-  <a href="#"><img src="media/output.png" height=400/></a>
+  <a href="#"><img src="pynotify/media/output.png" height=400/></a>
 </p>
 
 
