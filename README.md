@@ -43,8 +43,8 @@ message = "Hi there!"
 dest = "youremail@youremail.com" # add your email here
 
 # attachment paths are stored in an array
-image = ["cat.jpg"]
-images = ["cat.jpg", "dog.jpg"]
+image = ["cat.jpg"]  # for one file
+images = ["cat.jpg", "dog.jpg"] # for multiple files
 
 # sends an email
 send_email(dest, "Hello!")
