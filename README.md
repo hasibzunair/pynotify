@@ -27,7 +27,7 @@ send_email_with_attachment(destination, files, sub="Subject", text= "No text"):
 ```
 
 ## Usage
-Import the library from TestPyPi (Test Python Packaging Index)
+Make sure you have Python 3.6 or 3.7 installed. Then, import the library from TestPyPi (Test Python Packaging Index)
 
 ```python
 pip install -i https://test.pypi.org/simple/ pynotify
