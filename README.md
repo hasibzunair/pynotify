@@ -58,6 +58,8 @@ send_email_with_attachment(dest, images, subject, message)
 
 * Program written in Python 3.6
 * Nothing here. What did you expect? A cookie!?
+* Need to update dummy google account to less secure if not used for a long time, as google automatically shuts it down!
+
 
 ## Author
 Made with ❤️ by [Hasib Zunair](https://github.com/hasibzunair)
